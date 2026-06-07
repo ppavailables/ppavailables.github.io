@@ -184,5 +184,36 @@ TARE Functionality: Easily calculate the net weight of ingredients by subtractin
 VERSATILE & MULTIFUNCTIONAL WEIGHING MACHINE: Whether you're measuring portions for a diet, tracking calories, or prepping meals, this weighing scale for kitchen is your go-to weight machine for food and all other kitchen tasks.`,
         image: "https://m.media-amazon.com/images/I/71775fRr+gL._SL1500_.jpg?w=400&h=400&fit=crop",
         link: "https://amzn.to/3PmFYmf"
+    },
+
+    {
+        id: 13,
+        name: "Flexible Silicone Honeycomb 37 Cavity Ice Cube Tray",
+        description: `BPA Safe Ice Cube Tray: Silicone ice cube trays with lids made of food grade silicone, baby food grade silicon, 100% BPA Free high quality materials, the silicone ice cube trays Which can used for adult & baby food. 100% confirm our freezers silicon ice cube molds and brands to bring customers whiskey ice coffee best ice experience, so you can rest assured to buy without worry.
+The non-slip design will sit securely without spilling a drop. Trays can stack or sit alone.
+Easy Removal- Perfect silicone ice cube trays just push your finger from the bottom to get ice cubes without touch the cube itself.
+Widely Use--Fill with mint, fruit, yogurt, or juice to create ice cream, popsicles, baby food or jelly. Also make pure ice balls to chill your whisky, cocktail. Enjoy cool summer with cool ice tray.
+Multiple Usage-The silicone ice cube trays can make square ice cubes to cool drinks, whiskeys, cocktails, jellies, colored juices, lemon slices, limes and etc.`,
+        image: "https://m.media-amazon.com/images/I/81BtF9PrbEL._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4uQDmw6"
+    },
+
+    {
+        id: 14,
+        name: "Instant Cooling Spray",
+        description: `HOFASON Cooling Spray for Summer, Instant Cooling Spray, Nitrogen Spray Cyhamse Car Instant Cooling Mist Rapid Cooling Mist 260ml Heat Remover Freezing for Sports Bikes Trucks Motorcycles.`,
+        image: "https://m.media-amazon.com/images/I/71bDjG+OVJL._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/43kXmek"
+    },
+    {
+        id: 15,
+        name: "Mini Bluetooth Thermal Printer",
+        description: `MINI BLUETOOTH THERMAL PRINTER: [Note: Please download the Fun Print app from the App Store before use.] ZEITEL Bluetooth inkfree thermal printer allow you can print out various photo, patterns, including lable and sticker, mini printer with App operation. Support both iOS and Android phone. Coming with 8 roll of print paper of 57x25mm, 5 roll of self-adhesive print paper and a set of stickers, meeting your various needs of printing, great value pack.
+BLUETOOTH INK-FREE PRINT TECH: Comparing the tradition ink print, this portable printer make applys thermal print tech, no need of ink, more conveneint and flexible to use. Upgrade bluetooth connection, you can download the designated App to print any contentyou want. Moreover, the App printer also allows you can take a picture of content through APP camera to print the content directly. The app has preset various templates for you to choose to creat various exquisite content.
+200DPI RESOLUTION CLEAR PRINTING: High resolution fast printing, and continuous repeat printing can be done in one operation. Smooth printing, no stuck and jam. The lable maker machine outlet has a jagged cut for easier tear print paper off. Compared with the previous mini printer, the clarity is doubled.
+COMPACT AND PORTABLE: Our pocket printer's size is only 110x80x35mm, convenient to hold and carry. You can put in pencil case, or any stationery bag, suitable for home, school, office use. In office, you can print your instant idea or schedual immediately, record those important things or classfy items with different lables or stickers. In home, you can use it to classfy various item, food containter, item marker, etc.
+STYLISH CARTOON BLUETOOTH PRINTER: Our bluetooth thermal printer is USB charing, built in 1200mAh battery, can be powered by powerbank or connecting any adapter. Perfect for labeling file folders, food storage, organizing clothes, food containters, jars, bottles, etc. Cute cartoon design of also adds a touch stylish to this printer, making it a nice gift for students, kids, and anyone who values the functionality and fashion.`,
+        image: "https://m.media-amazon.com/images/I/614cJhOw+TL._SL1200_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4o9UlqJ"
     }
 ];
