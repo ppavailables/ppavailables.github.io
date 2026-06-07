@@ -10,8 +10,22 @@ document.addEventListener('DOMContentLoaded', function() {
     const clearBtn = document.getElementById('clearBtn');
     const noResults = document.getElementById('noResults');
 
-    // Initialize the page
-    displayProducts(products);
+    /**
+     * Shuffle array using Fisher-Yates algorithm
+     * @param {Array} array - Array to shuffle
+     * @returns {Array} - New shuffled array
+     */
+    function shuffleArray(array) {
+        const shuffled = [...array];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+    }
+
+    // Initialize the page with shuffled products
+    displayProducts(shuffleArray(products));
     setupEventListeners();
 
     /**
@@ -118,7 +132,7 @@ document.addEventListener('DOMContentLoaded', function() {
         clearBtn.addEventListener('click', function() {
             searchInput.value = '';
             clearBtn.style.display = 'none';
-            displayProducts(products);
+            displayProducts(shuffleArray(products));
         });
 
         // Show/hide clear button based on input
