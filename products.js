@@ -215,5 +215,28 @@ COMPACT AND PORTABLE: Our pocket printer's size is only 110x80x35mm, convenient 
 STYLISH CARTOON BLUETOOTH PRINTER: Our bluetooth thermal printer is USB charing, built in 1200mAh battery, can be powered by powerbank or connecting any adapter. Perfect for labeling file folders, food storage, organizing clothes, food containters, jars, bottles, etc. Cute cartoon design of also adds a touch stylish to this printer, making it a nice gift for students, kids, and anyone who values the functionality and fashion.`,
         image: "https://m.media-amazon.com/images/I/614cJhOw+TL._SL1200_.jpg?w=400&h=400&fit=crop",
         link: "https://amzn.to/4o9UlqJ"
+    },
+    {
+        id: 16,
+        name: "Pushup Board for Men & Women",
+        description: `PulGos 15-in-1 Pushup Board for Men & Women | Foldable Gym Equipment for Home Workout | 𝐌𝐮𝐥𝐭𝐢- 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 Push Up Stand for Chest, Triceps, Shoulders & Back | Portable Home Gym Training Kit`,
+        image: "https://m.media-amazon.com/images/I/71UFD+kyMfL._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4vtiF9t"
     }
+    ,
+    {
+        id: 17,
+        name: "Android 13.0 Smart Projector",
+        description: `WZATCO Yuva Go, Android 13.0 Smart Projector, 1080P & 4K Support, Rotatable Design, Auto & 4D Keystone with Netflix, Prime etc, 9000 Lumens, WiFi 6 & BT, Screen Mirroring, ARC, 720P Native, White`,
+        image: "https://m.media-amazon.com/images/I/61dD-ZZV-nL._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4g4bFvg"
+    },
+    {
+        id: 18,
+        name: " Small Hand Fan 3600mAh ",
+        description: `MERTTURM® Handheld Portable Fan, Mini Personal Foldable Small Hand Fan with LED Display, 5 Speeds Adjustable 3600mAh USB Rechargeable Powerful Cooling Turbo Desk Fan for Travel/Outdoor/Home/Office`,
+        image: "https://m.media-amazon.com/images/I/616YIiUfQvL._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4g4bFvg"
+    }
+
 ];
