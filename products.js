@@ -237,6 +237,33 @@ STYLISH CARTOON BLUETOOTH PRINTER: Our bluetooth thermal printer is USB charing,
         description: `MERTTURM® Handheld Portable Fan, Mini Personal Foldable Small Hand Fan with LED Display, 5 Speeds Adjustable 3600mAh USB Rechargeable Powerful Cooling Turbo Desk Fan for Travel/Outdoor/Home/Office`,
         image: "https://m.media-amazon.com/images/I/616YIiUfQvL._SL1500_.jpg?w=400&h=400&fit=crop",
         link: "https://amzn.to/4g4bFvg"
+    },
+    {
+        id: 19,
+        name: " Collapsible Silicone Water Bottle ",
+        description: `Carpediem Collapsible Silicone Water Bottle Foldable Leak Proof Travel Water Bottle Portable Reusable Bottle for Gym Hiking Camping`,
+        image: "https://m.media-amazon.com/images/I/51BUXLfcPqL._SL1024_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/43Y9iTv"
+    },
+    {
+        id: 20,
+        name: "3D Digital LED Clock",
+        description: `Dangfly Digital LED Clock, White, Rectangular, 3D Display, Wall Mountable and Table Clock for Bedroom and Living Room, Corded Electric(Works on Electricity Only)`,
+        image: "https://m.media-amazon.com/images/I/41QOOrFT5YL.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4vDqU2Q"
+    },
+    {
+        id: 21,
+        name: "Corn Cutter ",
+        description: `Clazkit Corn Cutter Unbreakable Corn Cob Stripping Kernels Remover Stainless Steel Blades and Hand Protector Mini Circular Shaving Thresher, Kitchen Gadgets`,
+        image: "https://m.media-amazon.com/images/I/41QOOrFT5YL.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4gjhQvE"
+    },
+        {
+        id: 22,
+        name: "Plastic Rain Cloud Water Drops",
+        description: `House of Quirk Plastic Rain Cloud Water Drops Sounds Essential Oil Diffuser with Calming Colorful Night Lights Lamp`,
+        image: "https://m.media-amazon.com/images/I/61ZvPvlgdfL._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/43vxiNR"
     }
-
 ];
