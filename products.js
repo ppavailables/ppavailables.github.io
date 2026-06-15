@@ -256,7 +256,7 @@ STYLISH CARTOON BLUETOOTH PRINTER: Our bluetooth thermal printer is USB charing,
         id: 21,
         name: "Corn Cutter ",
         description: `Clazkit Corn Cutter Unbreakable Corn Cob Stripping Kernels Remover Stainless Steel Blades and Hand Protector Mini Circular Shaving Thresher, Kitchen Gadgets`,
-        image: "https://m.media-amazon.com/images/I/41QOOrFT5YL.jpg?w=400&h=400&fit=crop",
+        image: "https://m.media-amazon.com/images/I/612IBP9i7gL._SL1500_.jpg?w=400&h=400&fit=crop",
         link: "https://amzn.to/4gjhQvE"
     },
         {
@@ -265,5 +265,26 @@ STYLISH CARTOON BLUETOOTH PRINTER: Our bluetooth thermal printer is USB charing,
         description: `House of Quirk Plastic Rain Cloud Water Drops Sounds Essential Oil Diffuser with Calming Colorful Night Lights Lamp`,
         image: "https://m.media-amazon.com/images/I/61ZvPvlgdfL._SL1500_.jpg?w=400&h=400&fit=crop",
         link: "https://amzn.to/43vxiNR"
-    }
+    },
+      {
+        id: 23,
+        name: " Solar Wall Lights Outdoor",
+        description: `GIGALUMI Solar Wall Lights Outdoor | Motion Sensor Waterproof LED 3 Modes Sconce Solar Lamp | Auto-Charging Exterior Security Light for Porch, Patio, Garden, Balcony & Pathway (Warm Yellow, 2 Pcs)`,
+        image: "https://m.media-amazon.com/images/I/81VFrDkJD7L._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/3PZ9vmk"
+    },
+    {
+        id: 24,
+        name: " 480° Rotating Shower Smartphones Holder",
+        description: `Upgraded 480° Rotating Shower Smartphones Holder Waterproof Case with Touch Screen,OOLYICO Shower Accessories Guardian Buddy Holder Wall Mount Shelf in Bathroom Bathtub for 4" - 7" Cell Phone`,
+        image: "https://m.media-amazon.com/images/I/71sTmbMAE7L._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/3QpAmbh"
+    },
+        {
+        id: 25,
+        name: "100 Pcs Coin Tissues | Compressed Towels",
+        description: `Jamboree 100 Pcs Coin Tissues | Compressed Towels | Camping Wipes | Toilet Paper Tablets | Bulk Pack | for Home, Beauty and Outdoors | Tablet Tissue | Softer & Odor Free`,
+        image: "https://m.media-amazon.com/images/I/515S26I0QpL._SL1447_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4osaAzD"
+    },
 ];
