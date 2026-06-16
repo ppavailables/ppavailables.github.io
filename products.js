@@ -287,4 +287,18 @@ STYLISH CARTOON BLUETOOTH PRINTER: Our bluetooth thermal printer is USB charing,
         image: "https://m.media-amazon.com/images/I/515S26I0QpL._SL1447_.jpg?w=400&h=400&fit=crop",
         link: "https://amzn.to/4osaAzD"
     },
+            {
+        id: 26,
+        name: "Set of 2 Metal Bathroom Corner Shelf Rack",
+        description: `DALUCI Set of 2 Metal Bathroom Corner Shelf Rack | No Drilling Self Adhesive Wall Mounted Storage Organizer for Bathroom & Kitchen | Rustproof Bathroom Shelves (8 & 9 INCH, Black)`,
+        image: "https://m.media-amazon.com/images/I/81VF4kpZlwL._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4va6Vsp"
+    },
+            {
+        id: 27,
+        name: "Panasonic Wireless Doorbell",
+        description: `Anchor by Panasonic Wireless Doorbell | 45 Melodies Calling Bell for Home, Office with 120 Meter Operating Range | Door Bell for home (22730)`,
+        image: "https://m.media-amazon.com/images/I/51XGcwwG8qL._SL1500_.jpg?w=400&h=400&fit=crop",
+        link: "https://amzn.to/4nJyrdG"
+    },
 ];
